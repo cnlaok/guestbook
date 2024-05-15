@@ -1,4 +1,4 @@
      utterances:
        enable: true
        repo: cnlaok/guestbook
-       theme: laok-style # 或其他适用于你的自定义主题名
+       theme: boxy-light # 或其他适用于你的自定义主题名
